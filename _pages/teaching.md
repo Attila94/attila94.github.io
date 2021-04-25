@@ -2,10 +2,30 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I'm head TA for the [CS4240 Deep Learning](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55236) course.
 
-Organize your courses by years, topics, or universities, however you like!
+---
+
+**Open MSc thesis positions**
+* T.B.A.
+
+Feel free to send me an email if you're interested in conducting your thesis reseach with me.
+
+**Currently supervising MSc students**
+* Yordan Dimitrov
+* Liang Zeng
+
+**Currently supervising BSc students**
+* Ivo Chen, Nick Mertzanis, Alin Prundeanu, Petar Ulev, Dani Rogmans  
+  Project: *Deep Learning for Precision Agriculture*
+* Edoardo Lanzini, Eljo Dorrestijn, Justin Oosterbaan, Tuhin Das  
+  Project: *DeepDeer - collab. w. Sara Beery, Caltech*
+
+---
+
+**Previously supervised BSc students**
+* Berend Kam, Rembrandt Oltmans, Nishad Tahur, Hiba Abderrazik, David Cian  
+  Project: *Deep Learning for LEGO*
