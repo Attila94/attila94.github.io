@@ -10,21 +10,21 @@ I'm head TA for the [CS4240 Deep Learning](https://studiegids.tudelft.nl/a101_di
 ---
 
 **Open MSc thesis positions**
-* [Learning Equivariance in Deep CNNs]({{site.url}}/assets/pdf/learning_equivariance.pdf)
-
-Feel free to send me an email if you're interested in conducting your thesis reseach with me.
+Currently no thesis positions available. If you're interested in conducting your thesis reseach with me, feel free to send me an email anyway.
 
 **Currently supervising MSc students**
-* Yordan Dimitrov
-* Liang Zeng
+* Tom Edixhoven  
+  Project: *Learning Equivariance in Deep CNNs*
+* Yordan Dimitrov  
+  Project: *Rethinking Invariant Information Clustering for Segmentation*
+* Liang Zeng  
+  Project: *Self-supervised segmentation from depth*
 
-**Currently supervising BSc students**
+**Previously supervised BSc students**
 * Ivo Chen, Nick Mertzanis, Alin Prundeanu, Petar Ulev, Dani Rogmans  
   Project: *Deep Learning for Precision Agriculture*
 * Edoardo Lanzini, Eljo Dorrestijn, Justin Oosterbaan, Tuhin Das  
   Project: *DeepDeer - collab. w. Sara Beery, Caltech*
-
-**Previously supervised BSc students**
 * Berend Kam, Rembrandt Oltmans, Nishad Tahur, Hiba Abderrazik, David Cian  
   Project: *Deep Learning for LEGO*
 
