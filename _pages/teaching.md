@@ -15,10 +15,19 @@ Currently no thesis positions available. If you're interested in conducting your
 **Currently supervising MSc students**
 * Tom Edixhoven  
   Project: *Learning Equivariance in Deep CNNs*
+* Nishad Tahur  
+  Project: *Full Color CNNs*
+
+**Currently supervising BSc students**
+* Gees Brouwer, Gianpaolo Gioia, Nicky Ju, Thomas Streefkerk  
+  Project: *Color Invariant Convolution for Unsupervised Domain Adaptation*
+
+<!-- * Liang Zeng  
+  Project: *Self-supervised segmentation from depth* -->
+
+**Previously supervised MSc students**
 * Yordan Dimitrov  
   Project: *Rethinking Invariant Information Clustering for Segmentation*
-* Liang Zeng  
-  Project: *Self-supervised segmentation from depth*
 
 **Previously supervised BSc students**
 * Ivo Chen, Nick Mertzanis, Alin Prundeanu, Petar Ulev, Dani Rogmans  
@@ -36,7 +45,10 @@ Currently no thesis positions available. If you're interested in conducting your
  Useful guidelines by my PhD supervisor for writing a scientific paper.
 
 * **[Zotero](https://www.zotero.org)**  
- My personal favorite for organizing scientific articles. Tip: sync your library across multiple devices through an external cloud service (e.g. [SurfDrive](https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive)) for free extended storage space (Zotero offers 300MB).
+ My personal favorite for organizing scientific articles. Tip: sync your library across multiple devices through an external cloud service (e.g. [SurfDrive](https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive)) for free extended storage space (Zotero offers 300MB). Tip2: sync your library with your Apple devices using the Papership app.
+
+* **[Obsidian](https://obsidian.md)**  
+ A brilliant tool for keeping a research log and general notes in MarkDown format in an organized way.
 
 * **[Typora](https://www.typora.io)**  
  Super sleek MarkDown editor that supports math using Tex syntax and exports to PDF, HTML, LaTeX and more. Ideal for taking notes or keeping a log.
