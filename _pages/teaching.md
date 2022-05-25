@@ -9,8 +9,8 @@ I'm head TA for the [CS4240 Deep Learning](https://studiegids.tudelft.nl/a101_di
 
 ---
 
-**Open MSc thesis positions**
-Currently no thesis positions available. If you're interested in conducting your thesis reseach with me, feel free to send me an email anyway.
+**Open MSc thesis positions**  
+Currently no thesis positions available. If you're interested in conducting your thesis reseach with me, feel free to send me an email.
 
 **Currently supervising MSc students**
 * Tom Edixhoven  
@@ -18,18 +18,17 @@ Currently no thesis positions available. If you're interested in conducting your
 * Nishad Tahur  
   Project: *Full Color CNNs*
 
-**Currently supervising BSc students**
-* Gees Brouwer, Gianpaolo Gioia, Nicky Ju, Thomas Streefkerk  
-  Project: *Color Invariant Convolution for Unsupervised Domain Adaptation*
-
-<!-- * Liang Zeng  
-  Project: *Self-supervised segmentation from depth* -->
+<!-- **Currently supervising BSc students** -->
 
 **Previously supervised MSc students**
+* Liang Zeng  
+  Project: *Self-supervised segmentation from depth*
 * Yordan Dimitrov  
   Project: *Rethinking Invariant Information Clustering for Segmentation*
 
 **Previously supervised BSc students**
+* Gees Brouwer, Gianpaolo Gioia, Nicky Ju, Thomas Streefkerk  
+  Project: *Color Invariant Convolution for Unsupervised Domain Adaptation*
 * Ivo Chen, Nick Mertzanis, Alin Prundeanu, Petar Ulev, Dani Rogmans  
   Project: *Deep Learning for Precision Agriculture*
 * Edoardo Lanzini, Eljo Dorrestijn, Justin Oosterbaan, Tuhin Das  
@@ -45,10 +44,7 @@ Currently no thesis positions available. If you're interested in conducting your
  Useful guidelines by my PhD supervisor for writing a scientific paper.
 
 * **[Zotero](https://www.zotero.org)**  
- My personal favorite for organizing scientific articles. Tip: sync your library across multiple devices through an external cloud service (e.g. [SurfDrive](https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive)) for free extended storage space (Zotero offers 300MB). Tip2: sync your library with your Apple devices using the Papership app.
+ My personal favorite for organizing scientific articles. Tip: sync your library across multiple devices through an external cloud service (e.g. [SurfDrive](https://www.surf.nl/en/store-and-share-your-files-securely-in-the-cloud-with-surfdrive)) for free extended storage space (Zotero offers 300MB). Tip2: now has a native iOS app.
 
 * **[Obsidian](https://obsidian.md)**  
  A brilliant tool for keeping a research log and general notes in MarkDown format in an organized way.
-
-* **[Typora](https://www.typora.io)**  
- Super sleek MarkDown editor that supports math using Tex syntax and exports to PDF, HTML, LaTeX and more. Ideal for taking notes or keeping a log.

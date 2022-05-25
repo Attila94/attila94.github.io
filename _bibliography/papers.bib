@@ -1,10 +1,32 @@
+%---
 ---
----
+
+@article{DBLP:journals/corr/abs-2201-08625,
+  author    = {Attila Lengyel and
+               Robert{-}Jan Bruintjes and
+               Marcos Baptista{-}Rios and
+               Osman Semih Kayhan and
+               Davide Zambrano and
+               Nergis Tomen and
+               Jan van Gemert},
+  title     = {VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning
+               Challenges},
+  journal   = {CoRR},
+  volume    = {abs/2201.08625},
+  year      = {2022},
+  url       = {https://arxiv.org/abs/2201.08625},
+  eprinttype = {arXiv},
+  eprint    = {2201.08625},
+  timestamp = {Tue, 01 Feb 2022 14:59:01 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2201-08625.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  selected={true}
+}
 
 @article{lengyel2021zeroshot,
       abbr={ICCV 2021},
       title={Zero-Shot Day-Night Domain Adaptation With a Physics Prior}, 
-      author={Attila Lengyel and Sourav Garg and Michael Milford and Jan C. van Gemert},
+      author={Attila Lengyel and Sourav Garg and Michael Milford and Jan van Gemert},
       abstract={We explore the zero-shot setting for day-night domain adaptation. The traditional domain adaptation setting is to train on one domain and adapt to the target domain by exploiting unlabeled data samples from the test set. As gathering relevant test data is expensive and sometimes even impossible, we remove any reliance on test data imagery and instead exploit a visual inductive prior derived from physics-based reflection models for domain adaptation. We cast a number of color invariant edge detectors as trainable layers in a convolutional neural network and evaluate their robustness to illumination changes. We show that the color invariant layer reduces the day-night distribution shift in feature map activations throughout the network. We demonstrate improved performance for zero-shot day to night domain adaptation on both synthetic as well as natural datasets in various tasks, including classification, segmentation and place recognition.},
       year={2021},
       eprint={2108.05137},
@@ -19,7 +41,7 @@
 @article{lengyel2021exploiting,
   abbr={ICIP 2021},
   title={Exploiting Learned Symmetries in Group Equivariant Convolutions},
-  author={Attila Lengyel and Jan C. van Gemert},
+  author={Attila Lengyel and Jan van Gemert},
   abstract={Group Equivariant Convolutions (GConvs) enable convolutional neural networks to be equivariant to various transformation groups, but at an additional parameter and compute cost. We investigate the filter parameters learned by GConvs and find certain conditions under which they become highly redundant. We show that GConvs can be efficiently decomposed into depthwise separable convolutions while preserving equivariance properties and demonstrate improved performance and data efficiency on two datasets. All code is publicly available at github.com/Attila94/SepGroupPy.},
   year={2021},
   eprint={2106.04914},
@@ -43,5 +65,5 @@
     url={https://arxiv.org/abs/2103.03768},
     html={https://arxiv.org/abs/2103.03768},
     pdf={2103.03768.pdf},
-    selected={true}
+    selected={false}
 }
