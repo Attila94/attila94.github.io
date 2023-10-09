@@ -3,6 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
+nav_order: 5
 ---
 
 I'm head TA for the [CS4240 Deep Learning](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55236) course.
