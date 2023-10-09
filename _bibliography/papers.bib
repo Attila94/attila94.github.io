@@ -1,6 +1,58 @@
 %---
 ---
 
+@misc{bruintjes2023vipriors,
+    title={VIPriors 3: Visual Inductive Priors for Data-Efficient Deep Learning Challenges}, 
+    author={Robert-Jan Bruintjes and Attila Lengyel and Marcos Baptista Rios and Osman Semih Kayhan and Davide Zambrano and Nergis Tomen and Jan van Gemert},
+    year={2023},
+    eprint={2305.19688},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    abstract = {The third edition of the "VIPriors: Visual Inductive Priors for Data-Efficient Deep Learning" workshop featured four data-impaired challenges, focusing on addressing the limitations of data availability in training deep learning models for computer vision tasks. The challenges comprised of four distinct data-impaired tasks, where participants were required to train models from scratch using a reduced number of training samples. The primary objective was to encourage novel approaches that incorporate relevant inductive biases to enhance the data efficiency of deep learning models. To foster creativity and exploration, participants were strictly prohibited from utilizing pre-trained checkpoints and other transfer learning techniques. Significant advancements were made compared to the provided baselines, where winning solutions surpassed the baselines by a considerable margin in all four tasks. These achievements were primarily attributed to the effective utilization of extensive data augmentation policies, model ensembling techniques, and the implementation of data-efficient training methods, including self-supervised representation learning. This report highlights the key aspects of the challenges and their outcomes.},
+    url = {https://arxiv.org/abs/2305.19688},
+    pdf = {2305.19688.pdf},
+    selected={false}
+}
+
+@inproceedings{Zeng_2022_BMVC,
+    author    = {Liang Zeng and Attila Lengyel and Nergis  Tomen and Jan C van Gemert},
+    title     = {Copy-Pasting Coherent Depth Regions Improves Contrastive Learning for Urban-Scene Segmentation},
+    booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
+    publisher = {{BMVA} Press},
+    year      = {2022},
+    url       = {https://bmvc2022.mpi-inf.mpg.de/0893.pdf},
+    abstract  = {In this work, we leverage estimated depth to boost self-supervised contrastive learning for segmentation of urban scenes, where unlabeled videos are readily available for training self-supervised depth estimation. We argue that the semantics of a coherent group of pixels in 3D space is self-contained and invariant to the contexts in which they appear. We group coherent, semantically related pixels into coherent depth regions given their estimated depth and use copy-paste to synthetically vary their contexts. In this way, cross-context correspondences are built in contrastive learning and a context-invariant representation is learned. For unsupervised semantic segmentation of urban scenes, our method surpasses the previous state-of-the-art baseline by +7.14% in mIoU on Cityscapes and +6.65% on KITTI. For fine-tuning on Cityscapes and KITTI segmentation, our method is competitive with existing models, yet, we do not need to pre-train on ImageNet or COCO, while we are also more computationally efficient. Our code is available on https://github.com/LeungTsang/CPCDR.},
+    url       = {https://bmvc2022.mpi-inf.mpg.de/893/},
+    pdf       = {0893.pdf},
+    selected  = {false}
+}
+
+@InProceedings{Edixhoven_2023_ICCV,
+    author    = {Edixhoven, Tom and Lengyel, Attila and van Gemert, Jan C.},
+    title     = {Using and Abusing Equivariance},
+    abstract  = {In this paper we show how Group Equivariant Convolutional Neural Networks use subsampling to learn to break equivariance to their symmetries. We focus on the 2D roto-translation group and investigate the impact of broken equivariance on network performance. We show that a change in the input dimension of a network as small as a single pixel can be enough for commonly used architectures to become approximately equivariant, rather than exactly. We investigate the impact of networks not being exactly equivariant and find that approximately equivariant networks generalise significantly worse to unseen symmetries compared to their exactly equivariant counterparts. However, when the symmetries in the training data are not identical to the symmetries of the network, we find that approximately equivariant networks are able to relax their own equivariant constraints, causing them to match or outperform exactly equivariant networks on common benchmark datasets.},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {119-128},
+    url       = {https://openaccess.thecvf.com/content/ICCV2023W/VIPriors/html/Edixhoven_Using_and_Abusing_Equivariance_ICCVW_2023_paper.html},
+    pdf       = {edixhoven_using.pdf},
+    selected  = {true}
+}
+
+@InProceedings{Warchocki_2023_ICCV,
+    author    = {Warchocki, Jan and Oprescu, Teodor and Wang, Yunhan and D\u{a}m\u{a}cu\c{s}, Alexandru and Misterka, Paul and Bruintjes, Robert-Jan and Lengyel, Attila and Strafforello, Ombretta and van Gemert, Jan},
+    title     = {Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models},
+    abstract  = {In temporal action localization, given an input video, the goal is to predict which actions it contains, where they begin, and where they end. Training and testing current state-of- the-art deep learning models requires access to large amounts of data and computational power. However, gathering such data is challenging and computational resources might be limited. This work explores and measures how current deep temporal action localization models perform in settings constrained by the amount of data or computational power. We measure data efficiency by training each model on a subset of the training set. We find that TemporalMaxer outperforms other models in data-limited settings. Furthermore, we recommend TriDet when training time is limited. To test the efficiency of the models during inference, we pass videos of different lengths through each model. We find that TemporalMaxer requires the least computational resources, likely due to its simple architecture.},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {3008-3016},
+    url       = {https://openaccess.thecvf.com/content/ICCV2023W/CVEU/html/Warchocki_Benchmarking_Data_Efficiency_and_Computational_Efficiency_of_Temporal_Action_Localization_ICCVW_2023_paper.html},
+    pdf       = {warchocki_benchmarking.pdf},
+    selected  = {false}
+}
+
 @article{DBLP:journals/corr/abs-2201-08625,
 	abbr={arXiv},
   author    = {Attila Lengyel and
@@ -19,7 +71,7 @@
   eprint    = {2201.08625},
   html={https://arxiv.org/abs/2201.08625},
   pdf={2201.08625.pdf},
-  selected={true}
+  selected={false}
 }
 
 @article{lengyel2021zeroshot,
